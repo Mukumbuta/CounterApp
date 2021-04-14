@@ -1,0 +1,57 @@
+html{
+     background: #4d4a5c;
+    
+}
+
+main{
+    max-width: 500px;
+    margin: 3rem auto;
+    padding: 2rem 1.6rem 6rem 1.6rem;
+    background: linear-gradient(rgb(0, 217, 255), green);
+    border:20px;
+    border-radius:1rem;
+}
+
+h2{
+    font-size:50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    color:#ffffff;
+}
+
+h3{
+    text-align: right;
+    color: #0c6b03;
+    size: 3px;
+}
+
+.display{
+    color: #000000;
+    font-size: 40px;
+    text-align:center;
+    background:#ffffff;
+    margin-top:0;
+    padding:2rem 2rem;
+    border-radius:1rem;
+}
+
+section{
+    margin-top:4rem;
+    margin-bottom:-5rem;
+    padding: 1rem 1.6rem;
+    border-radius:1rem;
+   
+}
+
+button{
+    font-size:25px;
+    background-color:#eeddff;
+    color:#000000;
+    border:200px;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 2px 5px blue;
+    font-family:cursive;
+    margin-left:70px;
+    
+}
+    
